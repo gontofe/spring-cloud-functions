@@ -1,9 +1,8 @@
 # Read Me First
-The following was discovered as part of building this project:
 
-* The original package name 'com.michaelrichardhall.spring-cloud-function' is invalid and this project uses 'com.michaelrichardhall.springcloudfunction' instead.
+This is a sample project using Spring Cloud Function, the template code was generated from Spring Initializr.
 
-# Getting Started
+The base functionality is taken from https://www.baeldung.com/spring-cloud-function
 
 ### Reference Documentation
 For further reference, please consider the following sections:
